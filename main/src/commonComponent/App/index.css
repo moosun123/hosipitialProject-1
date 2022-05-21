@@ -1,0 +1,17 @@
+@import "~antd/dist/antd.css";
+
+#components-layout-demo-fixed .logo {
+  float: left;
+  width: 80px;
+  height: 31px;
+  margin: 16px 24px 16px 0;
+  /* background: rgba(255, 255, 255, 0.2); */
+  display: inline;
+}
+
+.site-layout {
+  padding-top: 65px;
+}
+.site-layout .site-layout-background {
+  background: #fff;
+}

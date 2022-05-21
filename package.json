@@ -1,0 +1,11 @@
+{
+  "name": "hospitialproject",
+  "version": "1.0.0",
+  "description": "查看社保医院预约信息",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xinyu.bai",
+  "license": "ISC"
+}

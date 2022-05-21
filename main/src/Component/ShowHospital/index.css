@@ -1,0 +1,11 @@
+.container {
+  background-color: #eeeeee;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.button-check {
+  margin-right: 16px;
+}
